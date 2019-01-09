@@ -1,0 +1,24 @@
+# Dependencies
+markdown:         redcarpet
+pygments:         true
+
+# Permalinks
+permalink:        pretty
+
+# Setup
+title:            Valerie Buyse Psychiatry
+tagline:          'Valerie Buyse Psychiatry'
+description:      'Official website of Valerie Buyse MD, practicing psychiatry in Northern Virginia for over 30 years.'
+url:              https://curtpw.github.io/buysepsychiatrycom/
+
+author:
+  name:           'Valerie Buyse'
+  url:            http://buysepsychiatry.com/
+
+paginate:         5
+
+# Custom vars
+version:          2.0.0
+
+github:
+  repo:           https://github.com/curtpw/buysepsychiatrycom
