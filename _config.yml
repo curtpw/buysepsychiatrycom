@@ -8,8 +8,8 @@ relative_permalinks: true
 title:               Valerie Buyse Psychiatry
 tagline:             'A Jekyll theme'
 description:         'Professional website of Valerie Buyse MD, practicing psychiatry in Northern Virginia for over 30 years.'
-url:                 
-baseurl:             ''
+url:                 https://curtpw.github.io/buysepsychiatrycom
+baseurl:             'https://curtpw.github.io/buysepsychiatrycom'
 paginate:            5
 
 # About/contact
