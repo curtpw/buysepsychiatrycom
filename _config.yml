@@ -1,24 +1,22 @@
-# Dependencies
-markdown:         redcarpet
-pygments:         true
-
 # Permalinks
-permalink:        pretty
+#
+# Use of `relative_permalinks` ensures post links from the index work properly.
+permalink:           pretty
+relative_permalinks: true
 
 # Setup
-title:            Valerie Buyse Psychiatry
-tagline:          'Valerie Buyse Psychiatry'
-description:      'Official website of Valerie Buyse MD, practicing psychiatry in Northern Virginia for over 30 years.'
-url:              https://curtpw.github.io/buysepsychiatrycom/
+title:               Valerie Buyse Psychiatry
+tagline:             'A Jekyll theme'
+description:         'Professional website of Valerie Buyse MD, practicing psychiatry in Northern Virginia for over 30 years.'
+url:                 
+baseurl:             ''
+paginate:            5
 
+# About/contact
 author:
-  name:           'Valerie Buyse'
-  url:            http://buysepsychiatry.com/
-
-paginate:         5
+  name:              Valerie Buyse
+  url:               http://buysepsychiatry.com/
+  email:             markdotto@gmail.com
 
 # Custom vars
-version:          2.0.0
-
-github:
-  repo:           https://github.com/curtpw/buysepsychiatrycom
+version:             1.0.0
